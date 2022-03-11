@@ -6,21 +6,15 @@ Live preview: https://mohameda.netlify.app/
 
 ## Final Product
 
-!["gif of website"](https://github.com/Mohamed-C0DE/react-masjid/blob/gh-pages/src/screenshot/Al-Berr.gif?raw=true)
+!["gif of website"](https://github.com/Mohamed-C0DE/Portfolio/blob/main/portfolio.gif?raw=true)
 
 ## Tech Stack:
 
+- HTML
 - CSS
-- JS
-- React
-- Firebase
-
-## Dependencies
-
-- React-router-dom
-- React Icons
-- Font Awesome
+- SASS
+- JavaScript
 
 ## Setup
 
-Clone project, then `npm install` to install dependencies. Afterwards `npm start` inside directory to view project in browser.
+Clone project or download.
