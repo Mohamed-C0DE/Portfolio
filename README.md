@@ -14,7 +14,3 @@ Live preview: https://mohameda.netlify.app/
 - CSS
 - SASS
 - JavaScript
-
-## Setup
-
-Clone project or download.
